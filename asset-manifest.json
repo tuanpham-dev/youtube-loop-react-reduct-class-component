@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/youtube-loop-react-redux-class-component/static/css/main.46ae43d3.chunk.css",
+    "main.js": "/youtube-loop-react-redux-class-component/static/js/main.60e943cc.chunk.js",
+    "main.js.map": "/youtube-loop-react-redux-class-component/static/js/main.60e943cc.chunk.js.map",
+    "runtime-main.js": "/youtube-loop-react-redux-class-component/static/js/runtime-main.f4a0a915.js",
+    "runtime-main.js.map": "/youtube-loop-react-redux-class-component/static/js/runtime-main.f4a0a915.js.map",
+    "static/css/2.77b93774.chunk.css": "/youtube-loop-react-redux-class-component/static/css/2.77b93774.chunk.css",
+    "static/js/2.f4438970.chunk.js": "/youtube-loop-react-redux-class-component/static/js/2.f4438970.chunk.js",
+    "static/js/2.f4438970.chunk.js.map": "/youtube-loop-react-redux-class-component/static/js/2.f4438970.chunk.js.map",
+    "index.html": "/youtube-loop-react-redux-class-component/index.html",
+    "precache-manifest.8fd9a34be3c0a96400a7fc89b4187798.js": "/youtube-loop-react-redux-class-component/precache-manifest.8fd9a34be3c0a96400a7fc89b4187798.js",
+    "service-worker.js": "/youtube-loop-react-redux-class-component/service-worker.js",
+    "static/css/2.77b93774.chunk.css.map": "/youtube-loop-react-redux-class-component/static/css/2.77b93774.chunk.css.map",
+    "static/css/main.46ae43d3.chunk.css.map": "/youtube-loop-react-redux-class-component/static/css/main.46ae43d3.chunk.css.map",
+    "static/js/2.f4438970.chunk.js.LICENSE.txt": "/youtube-loop-react-redux-class-component/static/js/2.f4438970.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4a0a915.js",
+    "static/css/2.77b93774.chunk.css",
+    "static/js/2.f4438970.chunk.js",
+    "static/css/main.46ae43d3.chunk.css",
+    "static/js/main.60e943cc.chunk.js"
+  ]
+}
