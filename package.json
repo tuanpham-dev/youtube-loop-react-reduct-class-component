@@ -2,13 +2,21 @@
   "name": "youtube-loop-react-redux-class-component",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tuanpham-dev.github.io/youtube-loop-react-redux-class-component",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "gh-pages": "^2.2.0",
+    "lodash.throttle": "^4.1.1",
+    "node-sass": "^4.13.1",
+    "rc-slider": "^9.2.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-redux": "^7.2.0",
+    "react-scripts": "3.4.1",
+    "react-sortablejs": "^2.0.11",
+    "redux": "^4.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
